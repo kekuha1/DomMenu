@@ -1,0 +1,26 @@
+#Numbers {
+  display: none;
+  text-align: center;
+  font-size: 48px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+#Letters {
+  text-align: center;
+  font-size: 48px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+#menu {
+  display: none;
+  flex-direction: column;
+}
+nav {
+  float: right;
+}
+button {
+  width: 32px;
+  height: 32px;
+  background-image: url(hamburger-menu-512.webp);
+  background-size: contain;
+}
